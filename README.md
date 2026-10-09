@@ -1,5 +1,11 @@
 # Rustik Fox - Creator Embed Message
 
+<p align="center">
+  <img src="Assets/Git/wallpaper.png" alt="Rustic Fox Banner" width="100%">
+</p>
+
+[![СЕРВЕР ПОДДЕРЖКИ](https://img.shields.io/badge/СЕРВЕР_ПОДДЕРЖКИ-LOLKA.APP-cf1575?style=for-the-badge)](https://lolka.gg/gc7aPDzzK)
+
 ## Установка
 
 ### Windows
