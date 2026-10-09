@@ -27,7 +27,6 @@ class FieldEditor(QFrame):
         )
         self.header.clicked.connect(self.toggle)
 
-        # Стилизованная текстовая кнопка "Удалить" (Вариант 2)
         self.delete = QPushButton("Удалить")
         self.delete.setObjectName("danger")
         self.delete.setCursor(Qt.CursorShape.PointingHandCursor)
